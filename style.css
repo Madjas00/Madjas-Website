@@ -1,0 +1,22 @@
+#img {
+    width: 300px;
+    float: left;
+    background: transparent;
+}
+
+h1 {
+    float: left;
+    font-size: 50pt;
+    letter-spacing: 10px;
+    background-color: darkblue;
+    color: white;
+    box-shadow: -18px -19px 0px -4px rgba(0,0,0,0.75);
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 14px;
+}
+
+header {
+    background-color: rgb(216, 205, 143);
+    height: 147px;
+}
