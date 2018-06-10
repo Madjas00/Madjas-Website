@@ -21,3 +21,9 @@ header {
     background-color: rgb(167, 81, 248);
     height: 147px;
 }
+
+#wrapper {
+    margin-left:auto;
+    margin-right:auto;
+    width:2000px;
+}
